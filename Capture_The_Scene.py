@@ -57,6 +57,6 @@ def main(video_path, output_path):
 
 if __name__ == "__main__":
     video_path = "video.mp4"  # Replace with the path to your video file
-    output_path = "panorama.jpg"    # Replace with the desired output file path
+    output_path = "panorama_output.jpg"    # Replace with the desired output file path
 
     main(video_path, output_path)
